@@ -1,7 +1,7 @@
 # CV
 # Park Ayoung (박아영)
 
-📧 Email: your_email@  
+📧 Email: ah_young790@naver.com
 🔗 GitHub: https://github.com/ahyoung900709-collab
 🎓 M.S. Student, Smart Factory Convergence  
 🏢 R&D Researcher, Cosmecca Korea (Base Makeup Team)
