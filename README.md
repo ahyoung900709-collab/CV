@@ -2,7 +2,7 @@
 # Park Ayoung (박아영)
 
 📧 Email: your_email@  
-🔗 GitHub: https://github.com/your-id  
+🔗 GitHub: https://github.com/ahyoung900709
 🎓 M.S. Student, Smart Factory Convergence  
 🏢 R&D Researcher, Cosmecca Korea (Base Makeup Team)
 
